@@ -1,27 +1,29 @@
 
 # Examining driver injury severity in two vehicle crashes- A copula based approach
 
-**By Yasmin et al. 2014**
+## By Yasmin et al. 2014
 
 [Paper link](https://github.com/subasish/MannBhat01/blob/master/Mannering_Bhat_Paper/Papers/MBRP%202014_6.pdf).
 
 
 
-## What's new
+### What it is
+* Each collision type has a fundamentally distinct effecton injury severity sustained in the crash. :sparkles:
+* This study examines the hypothesis that collision typefundamentally alters the injury severity pattern under consideration.
 
-Two unique contributions:
 
-1. XX
-2. XX
+### From Literature
+* According to WHO:
+> Road traffic crashes are one of the major causes of death in the world. The economic and societal cost, of road traffic crashes,accrues to billions of dollars. For example, in Australia,the total cost of motor vehicle crashes is estimated at approxi-mately $18 billion per annum.
 
-The idea on high level is clear but the writing here is a bit unclear on details, of exactly how the sampling is done.
+### Dataset and Modeling
 
-## The model
+* A joint modeling framework to study collision type and injury severity sustained as two dimensions of theseverity process. 
+* Employs **a copula based joint framework** that ties the collision type (representedas a _multinomial logit model_) and injury severity (represented as an _ordered logit model_) through aclosed form flexible dependency structure to study the injury severity process.
+* Collision type as a vehicle-level
 
-I find the paper's model description slightly wordy and unclear, but basically we're building a **differentiable nearest neighbor++**. The output \hat{y} for a test example \hat{x} is computed very similar to what you might see in Nearest Neighbors:![fig1](img/pap1/fig1.JPG)
 
-## The bad
+![fig1](img/pap1/fig1.JPG)
 
-1. All tables, no graphics
-2. Hard to digest
-3. Tons of tables
+### Key Findings
+
