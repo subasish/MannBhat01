@@ -20,7 +20,7 @@
 
 ### Important lines
 > 1. Given the potential advantages of finite mixture models in describing the heterogeneity in crash data, there is a need to conduct further research on improving their performance. It is useful to understand what characteristics make a particular site more prone to fall into one or the other sub-population (i.e., one sub-population consists of accident-prone sites and the other contains low-risk sites).
-> 2. Another point worth noting is that transportation safety analysts are recommended to evaluate different functional forms describing the weight parameter. The selection of the best functional form should be based on not only the goodness-of-fit statistics, but also the resulting classification.
+> 2. Another point worth noting is that transportation safety analysts are recommended to evaluate different functional forms describing the weight parameter. The selection of the best functional form should be based on not only the goodness-of-fit statistics, but also the resulting classification. :pushpin:
 
 ### Contributions
 * The GFMNB-2 models can provide more reasonable classification results, as well as better statistical fitting performance than the FMNB-2 models for both roadway segment crash data and intersection crash data
@@ -32,5 +32,5 @@
 ### Limitations
 * From the study:
 > Only limited explanatory variables are used to model the weight parameter and the selection of the functional form could significantly affect the modeling results, it is useful to further evaluate various functional forms for the weight parameter.
-* Dataset is too old. 
+* Dataset is too old. :no_mouth:
 
