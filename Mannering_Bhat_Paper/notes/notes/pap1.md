@@ -28,7 +28,7 @@
   * roadway design attributes, 
   * environmental factors and 
   * crash characteristics.
-* In terms ofmethodology, the analyst formulates and estimates a copula-based MNL-OL framework to jointly analyze the collision type and injury severity outcome in a two-vehicle crash.
+* The analyst formulates and estimates a copula-based MNL-OL framework to jointly analyze the collision type and injury severity outcome in a two-vehicle crash.
 * The empirical analysis involves estimation of models by using six different copula structures: (1) Gaussian, (2) FGM, 3) Clayton,(4) Gumbel, (5) Frank and (6) Joe.
 
 ![fig2](img/pap1/fig2.JPG)
