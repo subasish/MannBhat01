@@ -23,13 +23,15 @@
 * Collision type as a vehicle-level
 * Data for this empirical analysis are sourced from the Victoria crash database of Australia for the years **2006 through 2010**. For the five years, the crash database has a record of 67,809 crashes involving 118,842 motor vehicles and 166,040 individuals resulting in 1550 fatalities and 87,855 injuries to the crash victims.
 * Used variables in the analysis – 
- 1. driver characteristics, 
- 2. vehicle characteristics, 
- 3. roadway design attributes, 
- 4. environmental factors and 
- 5. crash characteristics.
+ * 1. driver characteristics, 
+ * 2. vehicle characteristics, 
+ * 3. roadway design attributes, 
+ * 4. environmental factors and 
+ * 5. crash characteristics.
 * In terms ofmethodology, the analyst formulates and estimates a copula-based MNL-OL framework to jointly analyze the collision type and injury severity outcome in a two-vehicle crash.
-* The empirical analysis involves estimation of models by using six different copula structures: (1) Gaussian, (2) FGM, 3) Clayton,(4) Gumbel, (5) Frank and (6) Joe.![fig2](img/pap1/fig2.JPG)
+* The empirical analysis involves estimation of models by using six different copula structures: (1) Gaussian, (2) FGM, 3) Clayton,(4) Gumbel, (5) Frank and (6) Joe.
+
+![fig2](img/pap1/fig2.JPG)
 
 ### Important lines
 
