@@ -1,7 +1,7 @@
 
 # Examining driver injury severity in two vehicle crashes- A copula based approach
 
-## By Yasmin et al. 2014
+**By Yasmin et al. 2014**
 
 [Paper link](https://github.com/subasish/MannBhat01/blob/master/Mannering_Bhat_Paper/Papers/MBRP%202014_6.pdf).
 
@@ -25,5 +25,10 @@
 
 ![fig1](img/pap1/fig1.JPG)
 
-### Key Findings
+### Important lines
+
+> 1. The greater dissipation of kinetic energy associated with a head-on collision islikely to result in severe injuries compared to a side-swipe crash.
+> 2. In a rear-end collision involving two vehicles, one of the vehicle will berear-ended and the other one will be the rear-ender. The driverof the rear-ended vehicle is likely to be pushed backward intothe seat when struck by the rear-ender vehicle leading to a highprobability of whiplash or neck injury due to the continuous move-ment of the neck at a different speed relative to the head and the rest of the body.
+> 3. In this approach, **the analyst** imposes [x] the assumption that the injury severity profile for vehicle occupantsin all types of crashes is the same and any potential differencesbetween different collision types can be accurately captured byemploying the collision type variable as an explanatory variable. :pushpin:
+ 
 
