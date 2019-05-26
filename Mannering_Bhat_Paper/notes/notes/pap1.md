@@ -29,15 +29,13 @@
  4. environmental factors and 
  5. crash characteristics.
 * In terms ofmethodology, the analyst formulates and estimates a copula-based MNL-OL framework to jointly analyze the collision type and injury severity outcome in a two-vehicle crash.
-* The empirical analysis involves estimation of models by using six different copula structures: (1) Gaussian, (2) FGM, 3) Clayton,(4) Gumbel, (5) Frank and (6) Joe.
-
-![fig1](img/pap1/fig1.JPG)
+* The empirical analysis involves estimation of models by using six different copula structures: (1) Gaussian, (2) FGM, 3) Clayton,(4) Gumbel, (5) Frank and (6) Joe.![fig2](img/pap1/fig2.JPG)
 
 ### Important lines
 
 > 1. The greater dissipation of kinetic energy associated with a head-on collision islikely to result in severe injuries compared to a side-swipe crash.
-> 2. In a rear-end collision involving two vehicles, one of the vehicle will berear-ended and the other one will be the rear-ender. The driverof the rear-ended vehicle is likely to be pushed backward into the seat when struck by the rear-ender vehicle leading to a high probability of whiplash or neck injury due to the continuous move-ment of the neck at a different speed relative to the head and the rest of the body.
-> 3. In this approach, **the analyst** imposes the assumption that the injury severity profile for vehicle occupantsin all types of crashes is the same and any potential differencesbetween different collision types can be accurately captured by employing the collision type variable as an explanatory variable. :pushpin:
+> 2. In a rear-end collision involving two vehicles, one of the vehicle will berear-ended and the other one will be the rear-ender. The driver of the rear-ended vehicle is likely to be pushed backward into the seat when struck by the rear-ender vehicle leading to a high probability of whiplash or neck injury due to the continuous movement of the neck at a different speed relative to the head and the rest of the body.
+> 3. In this approach, **the analyst** imposes the assumption that the injury severity profile for vehicle occupants in all types of crashes is the same and any potential differencesbetween different collision types can be accurately captured by employing the collision type variable as an explanatory variable. :pushpin:
 
 ### Contributions
 * Defines a vehicle level collision type variableusing a combination of collision type and the initial point of contact. 
