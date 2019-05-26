@@ -18,7 +18,7 @@ The idea on high level is clear but the writing here is a bit unclear on details
 
 ## The model
 
-I find the paper's model description slightly wordy and unclear, but basically we're building a **differentiable nearest neighbor++**. The output \hat{y} for a test example \hat{x} is computed very similar to what you might see in Nearest Neighbors:![fig1](img/pap1/fig1.jpeg)
+I find the paper's model description slightly wordy and unclear, but basically we're building a **differentiable nearest neighbor++**. The output \hat{y} for a test example \hat{x} is computed very similar to what you might see in Nearest Neighbors:![fig1](img/pap1/fig1.JPG)
 
 ## The bad
 
