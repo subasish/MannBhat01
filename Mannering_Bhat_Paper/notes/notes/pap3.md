@@ -31,9 +31,8 @@
 occupancy and volume indicates turbulent and stop-and-go traffic scenarios also have relatively high risk of crash occurrence.
 
 ### Limitations
-* From the study:
+* From the study (_The following line from the abstract is needed to be rephrased. SVM is not a recently proposed SLT. It was introduced by Vapnik in 1974_):
 > In this study, support vector machine (SVM), a recently proposed statistical learning model was introduced to evaluate real-time crash risk.
-    * This line from the abstract is needed to be rephrased. SVM is not a recently proposed SLT. It was introduced by Vapnik in 1974.
 
 
 
