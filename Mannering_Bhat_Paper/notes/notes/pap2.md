@@ -16,7 +16,7 @@
 * The Toronto dataset contains crash data collected in 1995 at urban 4-legged signalized intersections in Toronto, Canada. 
 * The Texas dataset was collected at 4-lane undivided rural segments in Texas. This dataset contains crash data collected on 1499 undivided rural segments over a five-year period from *1997 to 2001*. The segment length ranged from 0.10 to 6.275 miles, with an average of 0.55 miles. During the study period, 553 out of the 1,499 (37%) segments did not have any reported crashes, and a total of 4,253 crashes occurred on 946 segments.
 
-![fig2](img/pap2/fig1.JPG)
+![fig1](img/pap2/fig1.JPG)
 
 ### Important lines
 > 1. Given the potential advantages of finite mixture models in describing the heterogeneity in crash data, there is a need to conduct further research on improving their performance. It is useful to understand what characteristics make a particular site more prone to fall into one or the other sub-population (i.e., one sub-population consists of accident-prone sites and the other contains low-risk sites).
